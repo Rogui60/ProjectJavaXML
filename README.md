@@ -1,1 +1,1 @@
-# ProjectJavaXML
+This is the project for the course: Application programming - Java and XML Technologies
